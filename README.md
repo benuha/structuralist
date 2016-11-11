@@ -1,5 +1,5 @@
 # structuralist
-From java source code to Plantuml Class Diagram
+From java source code to PlantUML Class Diagram
 
 This Program interpretes Java Project/Android Project source code and creates a PlantUML diagram code. 
 Work best with JetBrains Pycharm.
