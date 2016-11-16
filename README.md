@@ -29,8 +29,9 @@ How to use
 4.  Open the project folder, locate to 'structuralist/main.py' and specify your java project source dir. Run 'main.py', the program will create PlantUML Diagrams for java code under folder 'structuralist/diagrams'. You can view generated diagrams in PlanUML tab inside Pycharm 
 
 
-Issues
+Support
 ---------
+If you've experiented error in this program, please file an [issue] [5].
 Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub.
 
 License
@@ -41,3 +42,4 @@ License
    [2]: https://github.com/c2nes/javalang
    [3]: http://plantuml.com/download
    [4]: https://www.jetbrains.com/pycharm/
+   [5]: https://github.com/benuha/structuralist/issues
